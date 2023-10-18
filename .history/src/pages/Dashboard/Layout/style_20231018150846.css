@@ -1,0 +1,17 @@
+/* styles.css */
+.custom-title {
+    font-size: 24px;
+    font-weight: bold;
+    /* Add any other styles you want to customize */
+  }
+
+  /* styles.css */
+.custom-carousel-button .slick-fade {
+  transition: opacity 3s ease; /* Adjust the duration (1s in this example) for the fade effect */
+}
+
+.custom-card-title {
+  font-size: 38px; /* Set the desired font size */
+  font-weight: bold; /* Set the desired font weight */
+  text-align: center; /* Set the desired text alignment */
+}

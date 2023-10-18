@@ -1,0 +1,12 @@
+/* styles.css */
+.custom-carousel-button {
+    background-color: rgb(255, 255, 255); /* Set your desired button color */
+    color: rgb(201, 157, 157); /* Set the text color of the button */
+    border: none; /* Remove the border if you don't want it */
+  }
+  
+  /* Position the dots at the top */
+  .ant-carousel-dot-top .slick-dots {
+    top: 10px; /* Adjust the top position of the dots according to your layout */
+  }
+  

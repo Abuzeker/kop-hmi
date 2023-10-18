@@ -1,0 +1,11 @@
+/* styles.css */
+.custom-title {
+    font-size: 24px;
+    font-weight: bold;
+    /* Add any other styles you want to customize */
+  }
+
+  /* styles.css */
+.custom-carousel-button .slick-fade {
+  transition: opacity 3s ease; /* Adjust the duration (1s in this example) for the fade effect */
+}

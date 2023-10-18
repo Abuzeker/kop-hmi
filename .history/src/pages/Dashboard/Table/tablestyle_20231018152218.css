@@ -1,0 +1,9 @@
+/* styles.css */
+.custom-table {
+    font-size: 5px; /* Set the desired font size */
+  }
+
+  /* styles.css */
+.custom-table .ant-table-cell {
+    font-size: 12px; /* Set the desired font size */
+  }
